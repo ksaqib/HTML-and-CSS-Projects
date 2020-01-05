@@ -1,0 +1,12 @@
+.classOne{
+	color: orange;
+	background-color: grey;
+	font-style: bold;
+	font-size: 1.5rem;
+	text-align: justify;
+	padding: 5px;
+	border: solid green 3px;
+	margin: 15px;
+	text-shadow: 2px 2px #ff0000;
+}
+

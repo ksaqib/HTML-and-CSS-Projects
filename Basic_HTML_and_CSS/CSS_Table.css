@@ -1,0 +1,23 @@
+table{
+	border: 1px silver solid;
+}
+
+.paddingBetweenCols td{
+    padding: 0 15px 10px;
+}
+
+td:hover{
+	background-color: yellow:
+	color: black;
+}
+
+tr, th {
+	background-color: black;
+	color: cornsilk;
+}
+
+tr, td {
+	
+	background-color: darkgreen;
+	color: white;
+}
